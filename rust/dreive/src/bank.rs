@@ -1,3 +1,6 @@
+use crate::account::account;
+use crate::transaction::transaction;
+
 pub struct bank {
     pub name: String,
     pub accounts: Vec<account>,

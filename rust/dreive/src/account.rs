@@ -1,4 +1,4 @@
-
+use crate::customer::customer;
 
 pub struct account {
     pub number: u32,
